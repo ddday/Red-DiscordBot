@@ -1,8 +1,7 @@
 import discord
 from discord.ext import commands
 from .utils.dataIO import fileIO
-from .utils import checks
-from __main__ import send_cmd_help, settings
+from .uti
 import os
 import logging
 import asyncio
